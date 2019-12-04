@@ -20,7 +20,7 @@
 
 # Panda is Hiring!
 
-Panda, a leading technology provider for FX and CFD brokers is looking for data scientists, front-end developers, back-end developers, webmasters, QA peoplr, product people, tech support, system administrators, and talentd people in general...
+Panda, a leading technology provider for FX and CFD brokers is looking for data scientists, front-end developers, back-end developers, webmasters, QA people, product people, tech support, system administrators, and talented people in general...
 
 
 If you're interested, send your CV to:<br>
