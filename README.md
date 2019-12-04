@@ -12,7 +12,7 @@
 - [quantstats](https://github.com/ranaroussi/quantstats) - for assesing strategy performance.
 - [optimizeparams](https://github.com/ranaroussi/python-for-trading-meetup/blob/master/optimizeparams.py) - for parameter optimization
 
-<a href="https://youtu.be/RjznGUQqXtQ"><img src="https://combinatronics.com/ranaroussi/python-for-trading-meetup/master/thumbnail.jpg" width="400"></a>
+<a href="https://youtu.be/RjznGUQqXtQ"><img src="https://raw.githubusercontent.com/ranaroussi/python-for-trading-meetup/master/thumbnail.jpg" width="400"></a>
 
 The video of the presentation is [available on YouTube](https://youtu.be/RjznGUQqXtQ)
 
