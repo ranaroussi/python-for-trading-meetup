@@ -14,10 +14,9 @@
 
 #### The video of the presentation is [available on YouTube](https://youtu.be/RjznGUQqXtQ)
 
-<br>
----
-<br>
-<img src="https://aroussi.com/panda_logo.png" style="float:right;max-width:200px;margin:10px 0 20px 20px">
+<br><hr><br>
+
+<img src="https://aroussi.com/panda_logo.png" height="200" align="right">
 
 # Panda is Hiring!
 
