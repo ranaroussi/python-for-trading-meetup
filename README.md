@@ -4,6 +4,7 @@
 
 ---
 
+[Lecture code in Jupyter Notebook format](https://github.com/ranaroussi/python-for-trading-meetup/blob/master/python-meetup.ipynb)
 [Open slides in your browser](https://combinatronics.com/ranaroussi/python-for-trading-meetup/master/slides.html)
 
 #### Libraries I've used throughout the presentation are:
